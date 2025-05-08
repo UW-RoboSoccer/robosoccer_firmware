@@ -1,0 +1,5 @@
+#ifndef FIRMWARE_UTILS_HPP
+#define FIRMWARE_UTILS_HPP
+
+
+#endif // FIRMWARE_UTILS_HPP

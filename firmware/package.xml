@@ -4,7 +4,7 @@
   <name>firmware_bridge</name>
   <version>1.0.0</version>
   <description>Reads raw data from the robot sensors</description>
-  <maintainer email="@uwaterloo.ca">UWRS</maintainer>
+  <maintainer email="uwrobosoccer@gmail.com">UWRS</maintainer>
   <license>None</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
